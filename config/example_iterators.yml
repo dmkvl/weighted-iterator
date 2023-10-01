@@ -1,0 +1,10 @@
+---
+iterators:
+  - weight: 70
+    sequence: [11, 12, 13, 14, 15, 16, 17, 18, 19]
+  - weight: 25
+    sequence: [21, 22]
+  - weight: 4
+    sequence: [31, 32, 33, 24]
+  - weight: 1
+    sequence: [41]
